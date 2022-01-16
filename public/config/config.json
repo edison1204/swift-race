@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92aBC38b6b21140d4A73399Af65B87D11d00CDcf",
+  "SCAN_LINK": "https://etherscan.io/address/0xf8ff4bed261ecb30f7cbc2550c9a967b4a7dbb62",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Swift Race",
+  "SYMBOL": "SWFR",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/letsgobrandonnft",
+  "SHOW_BACKGROUND": true
+}
